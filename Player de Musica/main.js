@@ -29,7 +29,7 @@ const HorizonRed = {
 const TempoDira = {
     songName: 'Tempo Dirá',
     artist: 'Kamau',
-    file: 'Tempo_dira',
+    file: 'Tempo_Dira',
     like: false
 }
 
